@@ -62,16 +62,3 @@ plt.xlabel('Year')
 plt.grid(True)
 plt.show() 
 plt.close()
-
-
-
-
-
-
-
-
-
-
-
-
-    
