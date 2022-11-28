@@ -5,4 +5,4 @@ This script allows you to plot the number of published circulars per year.
 
 
 To get the plot you need to run the following command line: ````python GCNvsYEAR.py````
-The only thing you need before running the script is download the tarfile of all circulars from [GCN Website](https://gcn.gsfc.nasa.gov/gcn/gcn3_archive.html#tc3)
+The only thing you need before running the script is to download the tarfile of all circulars from [GCN Website](https://gcn.gsfc.nasa.gov/gcn/gcn3_archive.html#tc3)
