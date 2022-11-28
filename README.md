@@ -1,4 +1,4 @@
-# Number of published GCN Circulars by year
+# Number of published GCN Circulars per year
  
 This script allows you to plot the number of published circulars per year.
 <a href="https://ibb.co/TPvq8WJ"><img src="https://i.ibb.co/h271WYr/gcn-evolution.png" alt="gcn-evolution" border="0"></a>
