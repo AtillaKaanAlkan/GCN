@@ -5,6 +5,7 @@ import gzip
 from dateutil import parser
 import matplotlib.pyplot as plt
 import collections
+import re
 
 def extract_metada_from_circular(circular):
 
